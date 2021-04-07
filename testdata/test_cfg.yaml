@@ -1,0 +1,6 @@
+include:
+  - path: "./testdata/rsync"
+    recursive: true
+
+backup_volume:
+  mount_path: "/Volumes/rsyncd-test"

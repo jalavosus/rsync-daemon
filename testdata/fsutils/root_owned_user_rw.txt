@@ -1,0 +1,1 @@
+This file should be read-write from the perspective of a non-root user

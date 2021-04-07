@@ -1,0 +1,4 @@
+vendor/
+rsync-daemon
+!cmd/rsync-daemon
+.idea/

@@ -1,0 +1,1 @@
+This file is owned by a non-root user, but should be read-only from their perspective

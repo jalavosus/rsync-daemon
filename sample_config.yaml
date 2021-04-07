@@ -1,0 +1,6 @@
+include:
+  - path: "~/Documents/fuck_the_nsa"
+    recursive: true
+
+backup_volume:
+  mount_path: "/Volumes/Kitties Causing Fires"
